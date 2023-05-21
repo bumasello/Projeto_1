@@ -1,0 +1,14 @@
+2022-09-17T21:26:48.074Z [API_CICOM] error GET  - ORA-00955: nome já está sendo usado por um objeto existente
+2022-09-17T21:27:06.531Z [API_CICOM] error GET  - ID precisa ser um número positivo e maior que 0 (zero).
+2022-09-17T21:27:15.312Z [API_CICOM] error GET  - ID precisa ser um número positivo e maior que 0 (zero).
+2022-09-17T21:28:03.249Z [API_CICOM] error GET  - ID precisa ser um número positivo e maior que 0 (zero).
+2022-09-17T21:29:20.445Z [API_CICOM] error GET  - ID precisa ser um número positivo e maior que 0 (zero).
+2022-09-17T21:30:27.613Z [API_CICOM] error GET  - ID precisa ser um número positivo e maior que 0 (zero).
+2022-09-17T21:31:08.124Z [API_CICOM] error GET  - ID precisa ser um número positivo e maior que 0 (zero).
+2022-09-17T21:57:37.744Z [API_CICOM] error GET  - ORA-00957: nome de coluna duplicado
+2022-09-17T21:58:05.295Z [API_CICOM] error GET  - ORA-00907: parêntese direito não encontrado
+2022-09-17T21:59:40.121Z [API_CICOM] error GET  - ORA-00955: nome já está sendo usado por um objeto existente
+2022-09-17T21:59:52.208Z [API_CICOM] error GET  - ORA-00955: nome já está sendo usado por um objeto existente
+2022-09-17T22:00:34.899Z [API_CICOM] error GET  - ORA-00955: nome já está sendo usado por um objeto existente
+2022-09-17T22:03:11.264Z [API_CICOM] error GET  - ORA-00955: nome já está sendo usado por um objeto existente
+2022-09-17T22:07:22.394Z [API_CICOM] error GET  - ORA-00955: nome já está sendo usado por um objeto existente
